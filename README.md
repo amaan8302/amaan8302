@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, React**
 
-- 📫 How to reach me **amaanullah8302@gmail.com**
+- 📫 How to reach me **amaanullah8302@gmail.com** , **+91 7354941446**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
